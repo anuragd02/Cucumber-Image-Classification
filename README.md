@@ -30,3 +30,8 @@ MAE, MSE, RMSE, Explained Variance Score, R² Score, Mean Bias Deviation (MBD)
     - Early detection of powdery mildew for targeted treatment.
     - Improved resource management and reduced crop losses.
 
+**Developed By:**
+
+Anurag Dhole - Researcher, MIT Manipal
+
+Dr. Jadesha G - Scientist, GKVK, UAS Bangalore
